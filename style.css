@@ -137,6 +137,7 @@ p {
   background: #333 url('../img/i_cant_kill_myself.PNG') no-repeat center center/cover;
   height: 100vh;
   color: #fff;
+  position: relative;
 }
 
 #showcase .showcase-content {
@@ -149,7 +150,7 @@ p {
   padding: 0 2rem;
   /* Overlay */
   position: absolute;
-  top: 65px;
+  top: 0px;
   left:0;
   right: 0;
   bottom: 0;
